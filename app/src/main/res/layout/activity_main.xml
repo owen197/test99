@@ -48,4 +48,10 @@
         android:layout_height="wrap_content"
         android:text="Button" />
 
+    <Switch
+        android:id="@+id/switch1"
+        android:layout_width="288dp"
+        android:layout_height="207dp"
+        android:text="Switch" />
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
